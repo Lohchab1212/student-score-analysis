@@ -1,5 +1,8 @@
 # Student Exam Score Analysis
-
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-green)
+![Sklearn](https://img.shields.io/badge/ScikitLearn-1.x-orange)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ## Overview
 This project analyses the exam performance of 1,000 students across 
 math, reading and writing subjects using Python. The goal was to 
