@@ -20,6 +20,10 @@ lunch type, test preparation and exam scores.
 - Math scores are left skewed — most students performed well.
 - Reading and writing are highly correlated (0.95), while math 
   is more independent.
+## Visualisatons
+<img width="1200" height="500" alt="Average_scores_by_level of education" src="https://github.com/user-attachments/assets/a29f028c-4d2d-4a2d-8987-d3363a4eb133" />
+
+<img width="800" height="500" alt="Average_scores_by_gender" src="https://github.com/user-attachments/assets/ffdd3846-ed55-45a5-b36e-d9b6b175d2b4" />
 
 ## Machine Learning
 Built a Linear Regression model to predict math scores using 
