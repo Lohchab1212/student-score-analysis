@@ -7,8 +7,21 @@
 This project analyses the exam performance of 1,000 students across 
 math, reading and writing subjects using Python. The goal was to 
 identify key factors that influence student performance.
+## Installation
 
-## Dataset
+1. Clone the repository
+```bash
+git clone https://github.com/Lohchab1212/student-score-analysis.git
+cd student-score-analysis
+```
+
+2. Install required libraries
+```bash
+pip install pandas matplotlib seaborn scikit-learn
+```
+
+3. Open the notebook
+Open `analysis.ipynb` in Jupyter or VS Code and run all cells.## Dataset
 Students Performance in Exams — Kaggle  
 1,000 rows, 8 columns including gender, parental education, 
 lunch type, test preparation and exam scores.
@@ -42,3 +55,9 @@ reading and writing scores.
 
 ## Tools Used
 - Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+- 
+## Next Steps
+- Add more classification models (Random Forest, XGBoost) 
+  to predict whether a student will pass or fail
+- Include more demographic features for deeper analysis
+- Build an interactive dashboard using Streamlit
