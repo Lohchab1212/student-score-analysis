@@ -25,6 +25,12 @@ lunch type, test preparation and exam scores.
 
 <img width="800" height="500" alt="Average_scores_by_gender" src="https://github.com/user-attachments/assets/ffdd3846-ed55-45a5-b36e-d9b6b175d2b4" />
 
+<img width="800" height="500" alt="maths_score_dist" src="https://github.com/user-attachments/assets/14faac68-6dba-44c5-bf40-51cc2c91e875" />
+
+<img width="800" height="500" alt="correlation-heatmap" src="https://github.com/user-attachments/assets/5c5d87ef-b353-454f-9d26-dadb7cd01fc4" />
+
+<img width="800" height="500" alt="actual_vs_predicted_math_score" src="https://github.com/user-attachments/assets/5939a2cc-b367-45bf-9822-1d6a35f13177" />
+
 ## Machine Learning
 Built a Linear Regression model to predict math scores using 
 reading and writing scores.
