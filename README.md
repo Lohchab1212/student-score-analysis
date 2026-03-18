@@ -21,7 +21,9 @@ pip install pandas matplotlib seaborn scikit-learn
 ```
 
 3. Open the notebook
-Open `analysis.ipynb` in Jupyter or VS Code and run all cells.## Dataset
+Open `analysis.ipynb` in Jupyter or VS Code and run all cells.
+
+## Dataset
 Students Performance in Exams — Kaggle  
 1,000 rows, 8 columns including gender, parental education, 
 lunch type, test preparation and exam scores.
